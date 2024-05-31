@@ -1,0 +1,18 @@
+echo "# poissy" >> README.md (creation d'un fichier readme.md)
+git init (creation d'un fichier caché)
+git add README.md (Ajoute readme.md a mon repo)
+git commit -m "first commit" (Exliquation de ce qu'on à fait)
+git branch -M main (ma branche principale s'appelle main)
+git remote add origin https://github.com/Allaan7/poissy.git (Envoie ça à telle adresse)
+git push -u origin main (Envoie sur la branche main)
+
+
+
+
+git config --global user.email "allaan.salim@gmail.com"
+git config --global user.name "Allaan7"
+
+
+git branch documentation (Création du'une nouvelle branche)
+git checkout documentation (Deplacer sur une nouvelle branche)
+git branch (voir toutes les branches et savoir dans laquelle on se trouve)
