@@ -1,6 +1,7 @@
 body{
     margin: 0 auto;
-    background-color: rgb(253, 64, 244);
+    background: url(../img/rose.jpg) fixed;
+    background-size: cover;
 }
 
 .boite{
@@ -14,6 +15,7 @@ body{
     border-radius: 10px;
     float: left;
     transition: 0.3s;
+    
 }
 
 .boite:hover{
